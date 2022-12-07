@@ -1,2 +1,0 @@
-# Uqarar
-Final Year Project
