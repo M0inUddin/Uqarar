@@ -1,0 +1,4 @@
+#Sun Nov 13 19:34:56 PKT 2022
+base.0=C\:\\Users\\Sarah\\Desktop\\uqarar_fyp\\uqarar_fyp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
