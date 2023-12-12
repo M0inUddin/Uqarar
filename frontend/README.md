@@ -1,16 +1,16 @@
-# fyp
+### Installing Flutter
 
-A new Flutter project.
+To install Flutter, follow these steps:
 
-## Getting Started
+1. Download the Flutter SDK from the official Flutter website.
+2. Extract the downloaded file to a desired location on your machine.
+3. Add the Flutter SDK's `bin` directory to your system's PATH variable.
+4. Open a terminal or command prompt and run the command `flutter doctor` to verify the installation.
 
-This project is a starting point for a Flutter application.
+### Running the Flutter App
 
-A few resources to get you started if this is your first Flutter project:
+To run the Flutter app, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Open a terminal or command prompt.
+2. Navigate to the root directory of your Flutter project.
+3. Run the command `flutter run` to start the app on a connected device or emulator.
