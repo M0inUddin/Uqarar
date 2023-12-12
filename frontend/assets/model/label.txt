@@ -1,0 +1,6 @@
+0 happiness
+1 anger
+2 sadness
+3 disgust
+4 fear
+5 interest
